@@ -24,3 +24,5 @@ Animals are generally highly intelligent creatures.
 Cows behave in socially complex ways, like having friends and holding grudges against other cows who treat them poorly.
 
 
+Baby rattlesnakes are *not* more dangerous than adult ones, although they may not be able to control the amount of venom they use, adult rattlesnakes have more venom and intentionally use more than a baby can even produce. <3
+
