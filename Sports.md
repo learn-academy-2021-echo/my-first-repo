@@ -5,7 +5,7 @@
 
 ### Hockey
 - Noah: Vegas Knights and Seattle Kraken
-
+- Robert: Anaheim Ducks
 
 
 
@@ -22,4 +22,4 @@
 
 
 ### Basketball
--
+- Robert: Golden State Warriors
